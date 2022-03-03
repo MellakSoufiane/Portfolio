@@ -6,6 +6,7 @@ import {
   AiFillInstagram,
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import { RiVipCrownLine } from "react-icons/ri";
 
 function Footer() {
   let date = new Date();
@@ -17,7 +18,7 @@ function Footer() {
           <h3>Designed and Developed by MELLAK Soufiane</h3>
         </Col>
         <Col md="4" className="footer-copywright">
-          <h3>Copyright © {year} M.S</h3>
+          <h3>Copyright © {year} <RiVipCrownLine/> M.S</h3>
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
