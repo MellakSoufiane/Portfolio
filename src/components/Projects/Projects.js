@@ -8,7 +8,7 @@ import upload from "../../Assets/Projects/Upload.PNG";
 import qcm from "../../Assets/Projects/qcm.png";
 import movie from "../../Assets/Projects/movie.png";
 import powercard from "../../Assets/Projects/Powercard.png";
-
+import management from "../../Assets/Projects/management.jpg"
 
 function Projects() {
   return (
