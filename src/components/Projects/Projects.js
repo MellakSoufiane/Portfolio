@@ -24,7 +24,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
         <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={upload}
+              imgPath={management}
               isBlog={false}
               title="Employee Management Application"
               description="Realization of an application for managing employees and their employment contracts.
